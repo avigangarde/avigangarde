@@ -1,7 +1,7 @@
 [![MasterHead](https://beyondtheory.co.uk/storage/images/other/2016/08/Beyond-Theory-Data-Analysis-Landing-Page-graphic.png)](https://avigangarde.io)
 <h1 align="center">Hi 👋, I'm Avinash Gangarde</h1>
 <h3 align="center">I'm Data Analyst from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fanalytics&psig=AOvVaw2e5leDWtQvBISAV1KFX3QF&ust=1674569660896000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNC9sKDw3fwCFQAAAAAdAAAAABAE">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avigangarde&label=Profile%20views&color=0e75b6&style=flat" alt="avigangarde" /> </p>
 
