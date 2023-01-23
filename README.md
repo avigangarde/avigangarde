@@ -1,7 +1,7 @@
 [![MasterHead](https://beyondtheory.co.uk/storage/images/other/2016/08/Beyond-Theory-Data-Analysis-Landing-Page-graphic.png)](https://avigangarde.io)
 <h1 align="center">Hi 👋, I'm Avinash Gangarde</h1>
-<h3 align="center">I'm Data Science enthusiast from India</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/cartoon-character-2d-3oKIPEqDGUULpEU0aQ">
+<h3 align="center">I'm Data Analyst from India</h3>
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fanalytics&psig=AOvVaw2e5leDWtQvBISAV1KFX3QF&ust=1674569660896000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNC9sKDw3fwCFQAAAAAdAAAAABAE">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avigangarde&label=Profile%20views&color=0e75b6&style=flat" alt="avigangarde" /> </p>
 
@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/avinash-gangarde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avinash-gangarde" height="30" width="40" /></a>
-<a href="https://kaggle.com/avinash gangarde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="avinash gangarde" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@avigangarde11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@avigangarde11" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/avinash-gangarde-512b09249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/avinash-gangarde-512b09249/" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/avinashgangarde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/avinashgangarde" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/avigangarde11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/avigangarde11" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,4 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avigangarde&show_icons=true&locale=en" alt="avigangarde" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avigangarde&" alt="avigangarde" /></p>
-
