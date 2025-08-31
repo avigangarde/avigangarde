@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/avigangarde](https://github.com/avigangarde)
 
-- 💬 Ask me about **Python , SQL , EXCEL, TABLEAU**
+- 💬 Ask me about **Python , SQL , EXCEL, TABLEAU , Power BI , AWS , SSMS **
 
 - 📫 How to reach me **avigangarde11@gmail.com**
 
