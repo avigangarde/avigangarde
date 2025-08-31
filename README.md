@@ -1,4 +1,3 @@
-[![MasterHead](https://beyondtheory.co.uk/storage/images/other/2016/08/Beyond-Theory-Data-Analysis-Landing-Page-graphic.png)](https://avigangarde.io)
 <h1 align="center">Hi 👋, I'm Avinash Gangarde</h1>
 <h3 align="center">I'm Data Analyst from India</h3>
 
@@ -9,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/avigangarde](https://github.com/avigangarde)
 
-- 💬 Ask me about **Python , SQL , EXCEL, TABLEAU , Power BI , AWS , SSMS **
+- 💬 Ask me about **Python , SQL , EXCEL, TABLEAU , Power BI , AWS , SSMS**
 
 - 📫 How to reach me **avigangarde11@gmail.com**
 
